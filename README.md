@@ -1,4 +1,5 @@
-# Desafio Dio, Buscar uma lista de repositórios no Github inserindo o nome do usuário
+# Desafio Dio
+## Buscar uma lista de repositórios no Github inserindo o nome do usuário
 
 ## Tela exemplo:
 <img src="https://github.com/sdias-code/trilha-react-desafio2-github-wiki/blob/master/src/assets/tela_exemplo.png" alt="Tela exemplo do desafio">
